@@ -18,7 +18,7 @@ From command line (as user with sudo privileges)
 
         apt-get install mantaray
 
-        $ mantaray
+        mantaray
 
 A popup window should appear. Pressing continue will begin running the script.
 
