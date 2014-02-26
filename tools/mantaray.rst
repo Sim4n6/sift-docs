@@ -15,8 +15,6 @@ For more information about the suite, `visit our website <http://www.mantarayfor
 How To Run MantaRay
 ==================================
 
-```
-  apt-get install mantaray
+        apt-get install mantaray
 
-  $ mantaray
-```
+        $ mantaray
