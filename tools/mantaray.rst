@@ -14,7 +14,7 @@ For more information about the suite, `visit our website <http://www.mantarayfor
 
 How To Run MantaRay
 ==================================
-higlight:: console
+highlight:: console
 apt-get install mantaray
 
 $ mantaray
