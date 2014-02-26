@@ -25,5 +25,4 @@ A popup window should appear. Pressing continue will begin running the script.
 Errors and Bugs
 ==================================
 If MantaRay crashes, please re-run it in debug mode and send a screenshot
-of the crash along with any other details you can provide to the `launchpad
-ppa bug tracker for MantaRay <https://launchpad.net/~mantaray>`_
+of the crash along with any other details you can provide to the `MantaRay Forum <http://mantarayforensics.com/forums/>`_
