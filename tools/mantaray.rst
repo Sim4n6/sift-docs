@@ -11,3 +11,11 @@ support for numerous image formats, this tool provides a scalable
 base to utilize open source and custom exploitation tools.
 
 For more information about the suite, `visit our website <http://www.mantarayforensics.com>`_
+
+How To Run MantaRay
+==================================
+higlight:: console
+apt-get install mantaray
+
+$ mantaray
+
