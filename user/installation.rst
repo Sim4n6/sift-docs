@@ -12,18 +12,18 @@ Using `wget` to install the latest
 
 .. code-block:: html
 
-    wget --quiet -O - https://raw.github.com/sans-dfir/sift-bootstrap/master/bootstrap.sh | sudo sh -s -- -i
+    wget --quiet -O - https://raw.github.com/sans-dfir/sift-bootstrap/master/bootstrap.sh | sudo bash -s -- -i
     
 
 Using `curl` to install the latest
 
 .. code-block:: html
 
-    curl --silent -L https://raw.github.com/sans-dfir/sift-bootstrap/master/bootstrap.sh | sudo sh -s -- -i
+    curl --silent -L https://raw.github.com/sans-dfir/sift-bootstrap/master/bootstrap.sh | sudo bash -s -- -i
 
 
 Using `wget` to install the latest, configure and use apply the SIFT theme
 
 .. code-block:: html
 
-    wget --quiet -O - https://raw.github.com/sans-dfir/sift-bootstrap/master/bootstrap.sh | sudo sh -s -- -i -s -y
+    wget --quiet -O - https://raw.github.com/sans-dfir/sift-bootstrap/master/bootstrap.sh | sudo bash -s -- -i -s -y
