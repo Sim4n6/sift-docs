@@ -6,7 +6,7 @@ SleuthKit Tools
 =========  ======================================  =======================
 Tool Name  Description                             Example
 =========  ======================================  =======================
-fstat      Displays details about the file system  ``fsstat imagefile.dd``
+fsstat      Displays details about the file system  ``fsstat imagefile.dd``
 =========  ======================================  =======================
 
 **Data Layer Tools (Block or Cluster)**
