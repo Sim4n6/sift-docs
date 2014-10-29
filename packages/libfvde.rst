@@ -5,6 +5,6 @@ Library and tools to access FileVault Drive Encryption (FVDE) (or FileVault2) en
 **Note that this project has an experimental status**
 
 * Author: Omar Choudary, Joachim Metz
-* Website: https://code.google.com/p/libfvde/
+* Website: https://github.com/libyal/libfvde/
 
-Full documentation located at https://code.google.com/p/libfvde/
+Full documentation located at https://github.com/libyal/libfvde/wiki/
