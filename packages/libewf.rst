@@ -3,9 +3,9 @@ libewf
 Library for the Expert Witness File Format
 
 * Author: Joachim Metz
-* Website: https://code.google.com/p/libewf/
+* Website: https://github.com/libyal/libewf/
 
-Full documentation located at https://code.google.com/p/libewf/
+Full documentation located at https://github.com/libyal/libewf/wiki/
 
 libewf-tools
 -------------
