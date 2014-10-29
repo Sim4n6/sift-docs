@@ -1,4 +1,4 @@
-Mounting EO1 Images
+Mounting E01 Images
 -------------------
 .. code-block:: html
 
