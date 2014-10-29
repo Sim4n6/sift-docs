@@ -3,6 +3,6 @@ libevtx
 Library and tooling to access the Windows XML Event Log (EVTX) format. 
 
 * Author: Joachim Metz
-* Website: https://code.google.com/p/libevtx/
+* Website: https://github.com/libyal/libevtx/
 
-Full documentation located at https://code.google.com/p/libevtx/
+Full documentation located at https://github.com/libyal/libevtx/wiki/
