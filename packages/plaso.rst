@@ -5,4 +5,6 @@ A tool designed to extract timestamps from various files found on a typical comp
 * **Author(s):** Kristinn Gudjonsson and others
 * **Website:** https://github.com/log2timeline/plaso/
 
+**Command:** log2timeline.py
+
 Full documentation available at: http://plaso.kiddaland.net/

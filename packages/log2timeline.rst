@@ -5,5 +5,6 @@ This small little project site is dedicated to the tool log2timeline, a framewor
 * **Author:** Kristinn Gudjonsson
 * **Website:** https://code.google.com/p/log2timeline/
 
+**Command:** log2timeline OR log2timeline_legacy
 
 **Note:** This tool is being deprecated in favor of :doc:`/tools/plaso`
