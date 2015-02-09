@@ -1,6 +1,7 @@
 Cheatsheet
 ==========
 
+.. include:: log2timline.rst
 .. include:: mounting_dd_images.rst
 .. include:: mounting_e01_images.rst
 .. include:: mounting_split_raw_images.rst
@@ -12,6 +13,7 @@ Cheatsheet
 .. include:: sleuthkit_tools.rst
 
 .. toctree::
+    log2timeline.rst
     mounting_dd_images.rst
     mounting_e01_images.rst
     mounting_split_raw_images.rst
