@@ -37,8 +37,8 @@ libvhdi                      LGPLv3+                      .deb (SIFT REPO)      
 libvmdk                      LGPLv3+                      .deb (SIFT REPO)          https://github.com/libyal/libvmdk
 libvshadow                   LGPLv3+                      .deb (SIFT REPO)          https://github.com/libyal/libvshadow
 libxml-entities-perl         Not Specified                .deb (SIFT REPO)          http://search.cpan.org/~msergeant/XML-LibXML-1.00/LibXML.pm
-log2timeline-perl            GPL v3                       .deb (SIFT REPO)          http://log2timeline.net/
-mac-robber                   GPL v3                       .deb (SIFT REPO)
+log2timeline-perl            GNU GPL v3                   .deb (SIFT REPO)          http://log2timeline.net/
+mac-robber                   GNU GPL v3                   .deb (SIFT REPO)
 maltegoce                    Free for Non-Commercial Use  .deb (SIFT REPO)          https://www.paterva.com/web6/products/download2.php
 mantaray                     GNU GPL v3                   .deb (SIFT REPO)          http://mantarayforensics.com/
 ntdsxtract                   GNU GPL v3                   .deb (SIFT REPO)          https://github.com/csababarta/ntdsxtract
@@ -59,3 +59,16 @@ volatility                   GNU GPL v2                   .deb (SIFT REPO)      
 windows-perl                 GNU GPL v2                   .deb (SIFT REPO)          https://github.com/keydet89/RegRipper2.8
 xmount                       GNU GPL v3                   .deb (SIFT REPO)
 ============================ ============================ ========================= ====================================================================================
+
+License Info
+------------
+
+============================ ==================================================================
+License                      URL
+============================ ==================================================================
+Apache License, Version 2    http://opensource.org/licenses/Apache-2.0
+BSD 3-Clause                 http://opensource.org/licenses/BSD-3-Clause
+GNU GPL                      http://opensource.org/licenses/gpl-license
+LGPLv3                       http://opensource.org/licenses/lgpl-license
+MIT                          http://opensource.org/licenses/MIT
+============================ ==================================================================
