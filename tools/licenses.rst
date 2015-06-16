@@ -5,7 +5,8 @@ The SANS Investigative Forensic Tookit is a linux distribution, a collection of 
 
 Below is an attempt to identify some of the tools that are known to not be built by the original author but by someone in the community. While these tools exist on SIFT, they have their own project website and associated licenses. Not all tools will be listed here.
 
-
+Packages
+--------
 ============================ ============================ ========================= ====================================================================================
 Name                         License                      Install Method            Website
 ============================ ============================ ========================= ====================================================================================
@@ -60,9 +61,54 @@ windows-perl                 GNU GPL v2                   .deb (SIFT REPO)      
 xmount                       GNU GPL v3                   .deb (SIFT REPO)
 ============================ ============================ ========================= ====================================================================================
 
-License Info
-------------
 
+Scripts
+-------
+============================ ============================ ========================= ====================================================================================
+Name                         License                      Install Method            Website
+============================ ============================ ========================= ====================================================================================
+densityscout                 MIT                          git repo                  https://github.com/sans-dfir/sift-files
+extract_mft_record_slack.py  Apache License, Version 2.0  git repo                  https://github.com/sans-dfir/sift-files
+ga-parser.py                 GNU GPL                      git repo                  https://github.com/sans-dfir/sift-files
+java_idx_parser              Apache License, Version 2.0  git repo                  https://github.com/sans-dfir/sift-files
+jobparser.py                 GNU GPL                      git repo                  https://github.com/sans-dfir/sift-files
+page_brute                   Not Specified                git repo                  https://github.com/matonis/page_brute
+pe_carver                    Apache License, Version 2.0  git repo                  https://github.com/sans-dfir/sift-files
+pescanner.py                 GNU GPL v3                   git repo                  https://github.com/sans-dfir/sift-files
+shellbags.py                 Apache License, Version 2.0  git repo                  https://github.com/sans-dfir/sift-files
+shimcacheparser.py           Apache License, Version 2.0  git repo                  https://github.com/sans-dfir/sift-files
+sqlparser.py                 GNU GPL                      git repo                  https://github.com/sans-dfir/sift-files
+============================ ============================ ========================= ====================================================================================
+
+
+Volatility Plugins
+------------------
+============================ ============================ ========================= ====================================================================================
+Name                         License                      Install Method            Website
+============================ ============================ ========================= ====================================================================================
+apihooksdeep.py              GNU GPLv2+                   git repo                  https://github.com/sans-dfir/sift-files
+autoruns.py                  Not Specified                git repo                  https://github.com/sans-dfir/sift-files
+baseline.py                  GNU GPLv2+                   git repo                  https://github.com/sans-dfir/sift-files
+chromehistory.py             GNU GPLv2+                   git repo                  https://github.com/sans-dfir/sift-files
+editbox.py                   GNU GPLv2+                   git repo                  https://github.com/sans-dfir/sift-files
+firefoxhistory.py            GNU GPLv2+                   git repo                  https://github.com/sans-dfir/sift-files
+idxparser.py                 Apache License, Version 2.0  git repo                  https://github.com/sans-dfir/sift-files
+malfinddeep.py               GNU GPLv2+                   git repo                  https://github.com/sans-dfir/sift-files
+malprocfind.py               GNU GPLv2+                   git repo                  https://github.com/sans-dfir/sift-files
+malsysproc.py                GNU GPLv2+                   git repo                  https://github.com/sans-dfir/sift-files
+mimikatz.py                  GNU GPLv2+                   git repo                  https://github.com/sans-dfir/sift-files
+prefetch.py                  GNU GPLv2+                   git repo                  https://github.com/sans-dfir/sift-files
+pstotal.py                   GNU GPLv2+                   git repo                  https://github.com/sans-dfir/sift-files
+sqlite_help.py               GNU GPLv2+                   git repo                  https://github.com/sans-dfir/sift-files
+ssdeepscan.py                GNU GPLv2+                   git repo                  https://github.com/sans-dfir/sift-files
+trustrecords.py              GNU GPLv2+                   git repo                  https://github.com/sans-dfir/sift-files
+uninstallinfo.py             GNU GPLv2+                   git repo                  https://github.com/sans-dfir/sift-files
+usnparser.py                 GNU GPLv2+                   git repo                  https://github.com/sans-dfir/sift-files
+============================ ============================ ========================= ====================================================================================
+
+
+License Info
+~~~~~~~~~~~~
 ============================ ==================================================================
 License                      URL
 ============================ ==================================================================
