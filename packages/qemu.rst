@@ -12,4 +12,4 @@ Raw Image to VMDK
 
 VMDK to Raw Image
 ^^^^^^^^^^^^^^^^^
-http://zhigang.org/blog/convet-vmdk-to-raw/
+http://zhigang.org/2008/07/01/convet-vmdk-to-raw.html
