@@ -3,11 +3,11 @@ SleuthKit Tools
 
 **File System Layer Tools (Partition Information)**
 
-=========  ======================================  =======================
+=========  ======================================  ========================
 Tool Name  Description                             Example
-=========  ======================================  =======================
-fsstat      Displays details about the file system  ``fsstat imagefile.dd``
-=========  ======================================  =======================
+=========  ======================================  ========================
+fsstat     Displays details about the file system  ``fsstat imagefile.dd`` 
+=========  ======================================  ========================
 
 **Data Layer Tools (Block or Cluster)**
 
