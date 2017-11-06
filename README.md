@@ -1,6 +1,6 @@
 # SIFT Documentation
 
-Documentation for SANS Investigative Forensic Toolkit
+Documentation for SIFT Workstation
 
 This repository is used by Read the Docs to create the documenation website.
 
