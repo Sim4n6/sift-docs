@@ -43,8 +43,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'SANS Investigative Forensics Toolkit'
-copyright = u'2014, SANS Institute'
+project = u'SANS Workstation'
+copyright = u'2014-2017, Harbinger, LLC'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
