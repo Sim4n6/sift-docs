@@ -1,3 +1,5 @@
+[![Logo](https://digital-forensics.sans.org/images/sift.png)
+
 # SIFT Documentation
 
 Documentation for SIFT Workstation
