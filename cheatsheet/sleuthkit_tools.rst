@@ -36,6 +36,6 @@ ifind      Determine which inode contains a specific block    ``ifind imagefile.
 =========  ==================================================  ========================================
 Tool Name  Description                                         Example
 =========  ==================================================  ========================================
-fls        Displays deleted file entries in a directory inode
-ffind      Find the filename that using the inode
+fls        Displays deleted file entries in a directory inode  ``fls imagefile.dd``
+ffind      Find the filename that using the inode              ``ffind imagefile.dd inode_num``
 =========  ==================================================  ========================================
